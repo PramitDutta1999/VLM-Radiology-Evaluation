@@ -30,7 +30,7 @@ The analysis focuses on evaluating zero-shot and few-shot capabilities of these 
 
 ## Code Availability
 
-The source code for this project is **not publicly included** in this repository. If you want to access the code or report, please contact the author at [pramitduttaanik@gmail.com].
+The source code for this project is **not publicly included** in this repository. If you want to access the code, please contact the author at [pramitduttaanik@gmail.com].
 
 
 ## Contact
